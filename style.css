@@ -2,3 +2,7 @@ h1{
   color: blueviolet;
   font-family: 'Roboto', sans-serif;
 }
+
+img{
+  border: 4px solid black;
+}
